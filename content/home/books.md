@@ -49,3 +49,11 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
+
+1. Katırına Nikolic, Lazaros Mavridis, Teodora Djikic, Jelica Vucicevic, Danica Agbaba, Kemal Yelekci and John B. O. Mitchell, Computational approaches for multi-target drug design Drug Design for CNS Diseases: Screening Methodologies, Book Chapter, pp. 18-37, Ramsay, R. R., Di Giovanni, G., eds. (2017). Structure-Based Drug Design for Diagnosis and Treatment of Neurological Diseases. Lausanne: Frontiers Media. doi: 10.3389/978-2-88945-123-4. (Book Chapter).
+2. Kemal Yelekçi, Turhan Altınata
+“Modern University Chemistry Problems“, (Turkish) Çağlayan Kitapevi, Beyoğlu, İstanbul, 1989. (ISBN 975-436-002-2).
+3. Kemal Yelekçi
+“Modern Nuclear Magnetic Resonance Spectroscopy and application”, (Turkish)
+Marmara Üniversitesi Teknik Eğtitim.Fak. Matbaası, İstanbul,1991, 362 pages.
+(ISBN 975-400-064-6)
