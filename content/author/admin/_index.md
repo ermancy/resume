@@ -6,7 +6,7 @@ name = "Kemal Yelekçi"
 superuser = true
 
 # Role/position
-role = "Professor of Bioinformatics"
+role = "Professor of Organic Chemistry Computer Aided Drug Design"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -21,7 +21,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Bioinformatics",
-  "Computational Drug Design",
+  "Computer Aided Drug Design",
   "Molecular Docking"
 ]
 

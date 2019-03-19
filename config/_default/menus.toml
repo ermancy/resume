@@ -14,19 +14,34 @@
   weight = 2
 
 [[main]]
-  name = "Books"
-  url = "#books"
-  weight = 4
-
-[[main]]
   name = "Upcoming Talks"
   url = "#talks"
   weight = 3
 
 [[main]]
+  name = "Books"
+  url = "#books"
+  weight = 4
+
+[[main]]
+  name = "Conferences"
+  url = "#teaching"
+  weight = 5
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 6
+
+[[main]]
+  name = "Research Group"
+  url = "#people"
+  weight = 7
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
